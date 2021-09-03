@@ -1,0 +1,75 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "e4cd6d96cb9068e764da",
+  "publicPath": "/static/",
+  "outputPath": "/Users/jani/Documents/github_07052021/frontity-website/frontity-website/build/static",
+  "assetsByChunkName": {
+    "frontity-website": "frontity-website.module.js",
+    "list": "list.module.js"
+  },
+  "assets": [
+    {
+      "name": "frontity-website.module.js",
+      "size": 6622089,
+      "chunks": [
+        "frontity-website"
+      ],
+      "chunkNames": [
+        "frontity-website"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "list.module.js",
+      "size": 47617,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "namedChunkGroups": {
+    "frontity-website": {
+      "chunks": [
+        "frontity-website"
+      ],
+      "assets": [
+        "frontity-website.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "frontity-website",
+      "files": [
+        "frontity-website.module.js"
+      ]
+    },
+    {
+      "id": "list",
+      "files": [
+        "list.module.js"
+      ]
+    }
+  ]
+}
